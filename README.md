@@ -4,7 +4,7 @@ SecureTransactionHistory is a mobile application designed to provide users with 
 
 ## 📌 Features
 
-- 🔒 **Biometric Authentication** (Fingerprint)
+- 🔒 **Biometric Authentication** (Fingerprint, Passcode)
 - 💳 **View Recent Transactions**
 - 📅 **Display Transaction Details** (Amount, Date, Description, Type)
 - 🔑 **Mask Sensitive Data** (e.g., Amount) with Biometric Authentication to Reveal  
