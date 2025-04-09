@@ -1,4 +1,4 @@
-# 📝 NotesApp
+# 📝 SecureTransactionHistory
 
 SecureTransactionHistory is a mobile application designed to provide users with a secure and efficient way to view their recent transactions. Built with React Native and Expo, this app integrates biometric authentication (FaceID, Fingerprint) for enhanced security. The app allows users to securely access and view their transaction history and details.
 
