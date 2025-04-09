@@ -13,7 +13,11 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.securetransactionhistory.identifier",
+      "infoPlist": {
+        "NSFaceIDUsageDescription": "We need FaceID for authentication."
+      }
     },
     "android": {
       "adaptiveIcon": {
@@ -23,6 +27,11 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ac5e744-4a05-4180-b1fe-d575ae7d54d1"
+      }
     }
   }
 }
