@@ -47,7 +47,7 @@ SecureTransactionHistory is a mobile application designed to provide users with 
 `yarn start`
 
 ## 📸 Screenshots
-![login](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202025-04-09%20at%209.41.21%20PM%20(1).jpeg?alt=media&token=380af50c-8519-4cd6-a5a9-57bcad748ac7)
+![login](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FIMG_4509.png?alt=media&token=8f8271de-83e4-43b1-a612-a10845320375)
 ![fingerprint](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202025-04-09%20at%209.41.21%20PM.jpeg?alt=media&token=9f56601f-d995-4647-a72d-019af7eb388a)
 ![history](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202025-04-09%20at%209.41.20%20PM.jpeg?alt=media&token=db8c41a2-89aa-4743-9bf0-6185873a64f1)
 ![detail](https://firebasestorage.googleapis.com/v0/b/rentalapp-fa5bd.appspot.com/o/images%2FWhatsApp%20Image%202025-04-09%20at%209.41.19%20PM.jpeg?alt=media&token=39a8aaa0-38ab-4fdd-aaea-3f05444740e1)
