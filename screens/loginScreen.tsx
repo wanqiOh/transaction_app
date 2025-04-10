@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from 'react';
-import { Button, Text, View } from 'react-native';
+import { Button, Platform, Text, TouchableOpacity, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
 import * as LocalAuthentication from 'expo-local-authentication';
 import { COLORS, SHARED } from '../styles/sharedStyles';
@@ -52,7 +52,7 @@ const LoginScreen = ({ navigation }: any) => {
           <Button
             title="Authenticate with Biometrics"
             onPress={handleAuthentication}
-            color={COLORS.primary} // Customize the button color
+            color={Platform.OS === 'android' ? '#007AFF' : COLORS.primary}
           />
 
           {authError && <Text style={[SHARED.value, { color: COLORS.danger, marginTop: 12 }]}>{authError}</Text>}

@@ -22,7 +22,7 @@ export const SHARED = StyleSheet.create({
         flexDirection: 'row',
         justifyContent: 'space-between',
         alignItems: 'center',
-        marginBottom: 20,
+        marginBottom: 6,
     },
     headerTitle: {
         margin: 12,

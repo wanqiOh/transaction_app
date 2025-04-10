@@ -4,7 +4,7 @@ import {
     View,
     Text,
 } from 'react-native';
-import { SHARED, COLORS } from '../styles/sharedStyles'; // Adjust the path as needed
+import { SHARED } from '../styles/sharedStyles'; // Adjust the path as needed
 import CustomHeader from '../components/customHeader';
 import { getStatusColor } from '../utils/statusColorUtils';
 import TransactionCard from '../components/transactionCard';
